@@ -12,6 +12,7 @@ import { CategoriaService } from '../services/domain/categoria.service';
 import { ErrorInterceptorProvider } from '../interceptors/error-interceptor';
 import { AuthService } from '../services/authService';
 
+
 @NgModule({
   declarations: [
     MyApp
